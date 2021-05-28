@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\Ascii\Ascii\bin\Debug\net5.0\Ascii.exe
+C:\Users\danie\source\repos\Ascii\Ascii\bin\Debug\net5.0\Ascii.deps.json
+C:\Users\danie\source\repos\Ascii\Ascii\bin\Debug\net5.0\Ascii.runtimeconfig.json
+C:\Users\danie\source\repos\Ascii\Ascii\bin\Debug\net5.0\Ascii.runtimeconfig.dev.json
+C:\Users\danie\source\repos\Ascii\Ascii\bin\Debug\net5.0\Ascii.dll
+C:\Users\danie\source\repos\Ascii\Ascii\bin\Debug\net5.0\ref\Ascii.dll
+C:\Users\danie\source\repos\Ascii\Ascii\bin\Debug\net5.0\Ascii.pdb
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.AssemblyInfo.cs
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.dll
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\ref\Ascii.dll
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.pdb
+C:\Users\danie\source\repos\Ascii\Ascii\obj\Debug\net5.0\Ascii.genruntimeconfig.cache
