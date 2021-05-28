@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.exe
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.deps.json
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.runtimeconfig.json
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.runtimeconfig.dev.json
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.dll
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\ref\CompoundInterest.dll
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\bin\Debug\net5.0\CompoundInterest.pdb
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.AssemblyInfo.cs
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.dll
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\ref\CompoundInterest.dll
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.pdb
+C:\Users\danie\source\repos\CompoundInterest\CompoundInterest\obj\Debug\net5.0\CompoundInterest.genruntimeconfig.cache
