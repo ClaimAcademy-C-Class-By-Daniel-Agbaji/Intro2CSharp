@@ -1,0 +1,16 @@
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\bin\Debug\net5.0\OutputFormat.exe
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\bin\Debug\net5.0\OutputFormat.deps.json
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\bin\Debug\net5.0\OutputFormat.runtimeconfig.json
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\bin\Debug\net5.0\OutputFormat.runtimeconfig.dev.json
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\bin\Debug\net5.0\OutputFormat.dll
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\bin\Debug\net5.0\ref\OutputFormat.dll
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\bin\Debug\net5.0\OutputFormat.pdb
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.csprojAssemblyReference.cache
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.AssemblyInfo.cs
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.dll
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\ref\OutputFormat.dll
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.pdb
+C:\Users\danie\source\repos\OutputFormat\OutputFormat\obj\Debug\net5.0\OutputFormat.genruntimeconfig.cache
