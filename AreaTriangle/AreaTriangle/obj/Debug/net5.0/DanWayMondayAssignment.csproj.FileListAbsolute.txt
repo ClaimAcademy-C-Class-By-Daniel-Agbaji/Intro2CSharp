@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\DanWayMondayAssignment.exe
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\DanWayMondayAssignment.deps.json
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\DanWayMondayAssignment.runtimeconfig.json
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\DanWayMondayAssignment.runtimeconfig.dev.json
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\DanWayMondayAssignment.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\ref\DanWayMondayAssignment.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\DanWayMondayAssignment.pdb
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\DanWayMondayAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\DanWayMondayAssignment.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\DanWayMondayAssignment.AssemblyInfo.cs
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\DanWayMondayAssignment.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\DanWayMondayAssignment.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\ref\DanWayMondayAssignment.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\DanWayMondayAssignment.pdb
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\DanWayMondayAssignment.genruntimeconfig.cache

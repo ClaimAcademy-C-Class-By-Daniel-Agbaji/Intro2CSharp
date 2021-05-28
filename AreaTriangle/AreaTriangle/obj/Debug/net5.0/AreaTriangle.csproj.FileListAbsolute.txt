@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\AreaTriangle.exe
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\AreaTriangle.deps.json
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\AreaTriangle.runtimeconfig.json
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\AreaTriangle.runtimeconfig.dev.json
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\AreaTriangle.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\ref\AreaTriangle.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\bin\Debug\net5.0\AreaTriangle.pdb
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\AreaTriangle.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\AreaTriangle.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\AreaTriangle.AssemblyInfo.cs
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\AreaTriangle.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\AreaTriangle.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\ref\AreaTriangle.dll
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\AreaTriangle.pdb
+C:\Users\danie\source\repos\DanWayMondayAssignment\DanWayMondayAssignment\obj\Debug\net5.0\AreaTriangle.genruntimeconfig.cache
