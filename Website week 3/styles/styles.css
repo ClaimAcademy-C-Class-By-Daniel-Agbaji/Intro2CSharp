@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+    color: blue;
+    text-align: center;
+}
+form{
+    text-align: center;
+    font-size: medium;
+}
+.signin{
+    background-color: cadetblue;
+}
+.registration{
+    background-color: darkturquoise;
+}
