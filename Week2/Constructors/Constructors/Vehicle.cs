@@ -17,5 +17,6 @@ namespace Constructors
 
             Console.WriteLine("Vehicle is being initialized. {0}", registrationNumber);
         }
+
     }
 }

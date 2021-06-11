@@ -11,6 +11,7 @@ namespace Classes
         public void Introduce(string to)
         {
             Console.WriteLine("Hi {0}, I am {1}", to, Name);
+            Console.ReadLine();
         }
 
         public static Person Parse(string str)
@@ -26,8 +27,8 @@ namespace Classes
     {
         static void Main(string[] args)
         {
-            var person = Person.Parse("John");
-            person.Introduce("Mosh");
+            var person = Person.Parse("Daniel");
+            person.Introduce("Agbaji");
         }
     }
 }

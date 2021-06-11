@@ -1,7 +1,7 @@
 ﻿
 using System;
 
-namespace CSharpIntermediate
+namespace CSharpIntro
 {
     class Program
     {
