@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31313.79
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCircle", "AreaCircle\AreaCircle.csproj", "{D96F9433-5E4E-4A83-B48D-63D4D6ED1050}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AreaCircle", "..\..\ExampleClass\ExampleClass\AreaCircle.csproj", "{4E059582-2A57-4EB7-AECE-27B21208D561}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{D96F9433-5E4E-4A83-B48D-63D4D6ED1050}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{D96F9433-5E4E-4A83-B48D-63D4D6ED1050}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D96F9433-5E4E-4A83-B48D-63D4D6ED1050}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{D96F9433-5E4E-4A83-B48D-63D4D6ED1050}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4E059582-2A57-4EB7-AECE-27B21208D561}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E059582-2A57-4EB7-AECE-27B21208D561}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E059582-2A57-4EB7-AECE-27B21208D561}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E059582-2A57-4EB7-AECE-27B21208D561}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {D6C64477-BB11-4F39-8B77-F9708BEDF644}
+		SolutionGuid = {A03990A7-87D0-4085-8B2F-29908F4B5118}
 	EndGlobalSection
 EndGlobal
