@@ -1,6 +1,12 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\CSharpIntro",
+    "\\Week1",
+    "\\Week2",
+    "\\Week2\\WpfApplication1",
+    "\\Week3"
   ],
+  "SelectedNode": "\\Week2\\WpfApplication1\\WpfApplication1.sln",
   "PreviewInSolutionExplorer": false
 }
